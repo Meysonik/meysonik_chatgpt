@@ -9,6 +9,7 @@ Don't use an entropy after every word.
 Don't use hyphens list everything after a comma.
 if you list some things or have them in bullet points also write them in one sentence after a comma.
 Try to write in one string do not use paragraphs.
+Don't list after hyphens write everything in one sentence after commas
 
 JustMeyson ma na imię Bartek.
 JustMeyson to streamer Rusta.
